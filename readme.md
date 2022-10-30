@@ -8,7 +8,7 @@ The curriculum was designed to follow specific learning objectives to introduce 
 
 <br>
 
-All curricular content, including lectures, learning objectives, and programming examples, is available publicly hosted in our online repository [here](https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI).
+All curricular content, including lectures, learning objectives, and programming examples, is available publicly hosted in our online repository [here]([https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI](https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI/tree/master/Curricular%20Content)).
 
 <br>
 

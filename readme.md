@@ -20,14 +20,3 @@ Visualization of a) curricular content and b) concepts highlighted in programmin
 
 <br>
 
-For interactive programming, you can open our notebooks(.ipynb) directly in Google Colab from Github by just making one change.
-
-Notebook(.ipynb) url:
-
-![Curriculum](./Images/ipynb_url.png)
-
-Change it to:
-
-![Curriculum](./Images/ipynb_url2.png)
-
-<br>

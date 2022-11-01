@@ -12,6 +12,19 @@ All curricular content is available at our online repository, including [learnin
 
 <br>
 
+For interactive programming, you can open our notebook(.ipynb) directly in google Colab from Github repo just changing one tiny thing.
+
+Notebook(.ipynb) url:
+
+Images/ipynb_url.png
+
+Change it to:
+
+Images/ipynb_url2.png
+
+
+<br>
+
 Visualization of a) curricular content and b) concepts highlighted in programming examples
 <br>
 

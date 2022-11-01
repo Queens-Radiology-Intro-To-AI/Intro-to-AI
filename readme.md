@@ -10,9 +10,17 @@ The curriculum was designed to follow specific learning objectives to introduce 
 
 All curricular content is available at our online repository, including [learning objectives](https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI/blob/master/Curricular%20Content/learning_objectives_and_curriculum.pdf), [lectures](https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI/tree/master/Curricular%20Content/Lectures), and [programming examples](https://github.com/Queens-Radiology-Intro-To-AI/Intro-to-AI/tree/master/Curricular%20Content/Programming%20Examples).
 
+
 <br>
 
-For interactive programming, you can open our notebook(.ipynb) directly in google Colab from Github repo just changing one tiny thing.
+Visualization of a) curricular content and b) concepts highlighted in programming examples
+<br>
+
+![Curriculum](./Images/curriculum.PNG)
+
+<br>
+
+For interactive programming, you can open our notebook(.ipynb) directly in google Colab from Github repo by just making it one change.
 
 Notebook(.ipynb) url:
 
@@ -22,10 +30,4 @@ Change it to:
 
 ![Curriculum](./Images/ipynb_url2.png)
 
-
 <br>
-
-Visualization of a) curricular content and b) concepts highlighted in programming examples
-<br>
-
-![Curriculum](./Images/curriculum.PNG)

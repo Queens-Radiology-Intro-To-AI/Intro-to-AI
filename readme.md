@@ -16,11 +16,11 @@ For interactive programming, you can open our notebook(.ipynb) directly in googl
 
 Notebook(.ipynb) url:
 
-Images/ipynb_url.png
+(./Images/ipynb_url.png)
 
 Change it to:
 
-Images/ipynb_url2.png
+(./Images/ipynb_url2.png)
 
 
 <br>
